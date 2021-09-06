@@ -11,7 +11,8 @@ versions:
   ghae: '*'
 topics:
   - GitHub Apps
-shortTitle: Transfer ownership
+shortTitle: Transfer ownership to antonydowney@Adowneydev.onmicrosoft.com
+
 ---
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
